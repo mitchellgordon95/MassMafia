@@ -1,0 +1,80 @@
+body 
+{
+	background-color: black;
+	color: white;
+	font-family: "Impact", Charcoal, sans-serif;	
+}
+p
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+y
+{
+	color: yellow;
+}
+r
+{
+	color: red;
+}
+g
+{
+	color: grey;
+}
+
+.left 
+{
+	position:relative;
+	width: 33%;
+	float:left;
+	text-align:center;
+}
+.right
+{
+	position:relative;
+	width: 33%;
+	float:right;
+	text-align:center;
+}
+.leftMiddle 
+{
+	position:relative;
+	width: 50%;
+	float:left;
+	text-align:center;
+}
+.rightMiddle
+{
+	position:relative;
+	width: 50%;
+	float:right;
+	text-align:center;
+}
+.center
+{
+	position:relative;
+	width:33%;
+	display: inline-block;
+	text-align:center;
+}
+.indexlink
+{
+color: white;
+text-decoration: none;
+font-size: 20px;
+}
+a:visited
+{
+	color: white;
+}
+a
+{
+	color: white;
+}
+form
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
